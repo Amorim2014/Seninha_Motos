@@ -8,4 +8,4 @@ Allow: /
 User-Agent: psbot
 Allow: /
 
-Sitemap: http//www.seninhamotos.com.br/sitemap.xml
+Sitemap: http//www.nutrimed.com.br/sitemap.xml
